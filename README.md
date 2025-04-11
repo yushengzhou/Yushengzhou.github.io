@@ -1,4 +1,4 @@
 # Yushengzhou.github.io
-Repository for Tyler Ransom's academic research website.
+Repository for Yusheng Zhou's academic research website.
 
 https://Yushengzhou.github.io
